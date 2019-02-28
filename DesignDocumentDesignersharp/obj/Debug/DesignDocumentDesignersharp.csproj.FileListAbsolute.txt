@@ -1,0 +1,11 @@
+E:\Users\GoblinSteve\source\repos\DesignDocumentDesignersharp\DesignDocumentDesignersharp\bin\Debug\DesignDocumentDesignersharp.exe.config
+E:\Users\GoblinSteve\source\repos\DesignDocumentDesignersharp\DesignDocumentDesignersharp\bin\Debug\DesignDocumentDesignersharp.exe
+E:\Users\GoblinSteve\source\repos\DesignDocumentDesignersharp\DesignDocumentDesignersharp\bin\Debug\DesignDocumentDesignersharp.pdb
+E:\Users\GoblinSteve\source\repos\DesignDocumentDesignersharp\DesignDocumentDesignersharp\obj\Debug\DesignDocumentDesignersharp.csprojAssemblyReference.cache
+E:\Users\GoblinSteve\source\repos\DesignDocumentDesignersharp\DesignDocumentDesignersharp\obj\Debug\DesignDocumentDesignersharp.Properties.Resources.resources
+E:\Users\GoblinSteve\source\repos\DesignDocumentDesignersharp\DesignDocumentDesignersharp\obj\Debug\DesignDocumentDesignersharp.csproj.GenerateResource.cache
+E:\Users\GoblinSteve\source\repos\DesignDocumentDesignersharp\DesignDocumentDesignersharp\obj\Debug\DesignDocumentDesignersharp.csproj.CoreCompileInputs.cache
+E:\Users\GoblinSteve\source\repos\DesignDocumentDesignersharp\DesignDocumentDesignersharp\obj\Debug\DesignDocumentDesignersharp.exe
+E:\Users\GoblinSteve\source\repos\DesignDocumentDesignersharp\DesignDocumentDesignersharp\obj\Debug\DesignDocumentDesignersharp.pdb
+E:\Users\GoblinSteve\source\repos\DesignDocumentDesignersharp\DesignDocumentDesignersharp\obj\Debug\DesignDocumentDesignersharp.Form2.resources
+E:\Users\GoblinSteve\source\repos\DesignDocumentDesignersharp\DesignDocumentDesignersharp\obj\Debug\DesignDocumentDesignersharp.Form1.resources
